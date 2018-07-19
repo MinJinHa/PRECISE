@@ -1,0 +1,11 @@
+Package: PRECISE
+Title: Personalized Cancer-specific Integrated Network Estimation
+Version: 1.0
+Date: 2018-04-25
+Author: Min Jin Ha <mjha@mdanderson.org>
+Maintainer: Min Jin Ha <mjha@mdanderson.org>
+Depends: R (>= 3.3.0), pcalg, BMS
+Description: Estimate cancer-specific and patient-specific networks/scores
+License: GPL (>=2)
+NeedsCompilation: no
+Packaged: 2018-07-18 20:43:23 UTC; mjha
